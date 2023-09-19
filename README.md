@@ -1,4 +1,5 @@
 # ✨ HMINE 
+<img src="https://img.shields.io/badge/main-v1.0-blue">
 
 ## ⌛ Comming soon！ 
 
