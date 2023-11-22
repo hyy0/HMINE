@@ -3,7 +3,7 @@
 
 ## ⌛ Comming soon！ 
 
-Code for paper "Neural Collective Causal Disentanglement"!
+Code for paper "NHCE: A Neural High-order Causal Entropy Algorithm for Disentangling Coupling Dynamics"!
 
 ###  📨
 We are excited to announce that we are soon releasing a new journal paper that will be available on our GitHub repository. Please stay tuned for updates and check back regularly for the latest information. 
