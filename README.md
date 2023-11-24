@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="icon.pdf" />
+  <img src="icon.svg" />
 </p>
 
 ---
