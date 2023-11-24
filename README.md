@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="icon.eps" />
+  <img src="icon.pdf" />
 </p>
 
 ---
