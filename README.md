@@ -1,9 +1,3 @@
-<p align="center">
-  <img src="icon.svg" />
-</p>
-
----
-
 # ✨ NHCE 
 <img src="https://img.shields.io/badge/main-v1.0-blue">
 
