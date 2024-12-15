@@ -95,4 +95,4 @@
 
 If you have any questions or want to use the code, feel free to contact:
 * Yanyan He (heyy@seu.edu.cn)
-* Mingyu Kang (kangmingyu@seu.edu.cn)
+* Mingyu Kang (kangmingyu@seu.edu.cn)   
