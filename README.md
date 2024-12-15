@@ -60,7 +60,7 @@
 > 
 > 🌟 If you find this resource helpful, please consider to star this repository and cite our research:
 
-```
+```bibtex
 @article{he2024NHCE,
   author={Yanyan He and Mingyu Kang and Duxin Chen and Wenwu Yu},
   journal={IEEE Transactions on Network Science and Engineering}, 
